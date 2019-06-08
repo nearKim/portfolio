@@ -1,9 +1,9 @@
-title:            Slate+Simple Jekyll Theme
-description:      Your site description...
-copyright:        Your Name
-       
+title:            Ihn Geun Kim
+description:      Dev Portfolio
+copyright:        Ihn Geun Kim
 
-future:      false  # publish future dated posts --  true, false (default) 
+
+future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 gems:
@@ -11,7 +11,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
-  
+
 sass:
   sass_dir: _sass
   style: compressed
@@ -19,7 +19,7 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 #kramdown:
 #  input: GFM
@@ -29,10 +29,10 @@ paginate: 5
 #  toc_levels: 1..6
 #  enable_coderay: false
 
-include: 
+include:
   - .htaccess
-  
-exclude: 
+
+exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
