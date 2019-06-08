@@ -1,6 +1,10 @@
 ---
 layout: post
 title: About
+categories: posts
+title: Syntax Highlighting Post
+tags: [sample post, code, highlighting]
+date-string: NOVEMBER 18, 2016
 ---
 
 
