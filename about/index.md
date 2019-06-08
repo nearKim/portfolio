@@ -3,6 +3,7 @@ layout: post
 title: About
 ---
 
+
 ## nearKim's Dev and project Portfolio.
 
 ### Abstract
@@ -11,8 +12,11 @@ Data science nomad who became a web developer.
 Better or worse, keep hustlin'
 
 ### Work Experience
-- 2017.09. ~ 2018.02. Android & Server engineer (AKA Intelligence)
-- 2018.07. ~ Current. Frontend Web Developer (XINICS Inc.)
+- 2017.09. ~ 2018.02. *Android & Server engineer* (AKA Intelligence)
+- 2018.07. ~ Current. *Frontend Web Developer* (XINICS Inc.)
+
+### Project Participation
+- 2017.03 ~  Current. *Team Popong*
 
 ### Current Interests
 - Web development
