@@ -48,7 +48,7 @@ TODO
 ![Allocation Module](/images/portfolio/construction/allocation-module.jpg)
 
 ### Visualization Module
-![Allocation Module](/images/portfolio/construction/construction-management-main.jpg)
+![Allocation Module](/images/portfolio/construction/visualization.jpg)
 
 # 기술 스택
 - React
