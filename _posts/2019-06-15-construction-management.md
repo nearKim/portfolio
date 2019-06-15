@@ -10,7 +10,7 @@ date-string: FEBRUARY, 2019
 
 
 # 개요
-- 개발 기간: 2019.02 ~ 2019.05
+- 개발 기간: 2019.02 ~ 2019.05 (약 4개월)
 - [Github Repository: Construction Management](https://github.com/nearKim/ConstructionManagement)
     - 개발 브랜치: master
     - 배포 브랜치: production
@@ -21,13 +21,33 @@ date-string: FEBRUARY, 2019
 # Working Paper
 TODO
 
-
 # 프로젝트 목표
 본 프로젝트는 다음 3가지 모듈을 포함한 `통합 건설 데이터 관리 웹 어플리케이션`을 제작하고 Amazon EC2 인스턴스에 배포하여 연구자에게 서비스하는 것을 목표로 한다.
 1. **Storage Module**: SRA에서의 Monte-Carlo simulation을 위해 as-built data를 로드하고, 데이터를 선별하여 DB에 저장.
 2. **Allocation Module**: 저장된 DB의 데이터들을 현재 추정하고자 하는 Planned Schedule에 할당하여 JAVA 기반의 시뮬레이션 모듈이 이해할 수 있는 형식으로 변환.
 3. **Analysis Module**: Simulation 모듈을 통해 생성된 최종 결과 4가지 Index에 따라 동적으로 시각화하여 사용자에게 제공.
 
+# 기술 스택
+- React
+- Django
+- Django REST Framework
+- gunicorn
+- nginx
+- Amazon EC2
+
+### Library
+#### Python
+- pandas
+- numpy
+- [django-webpack-loader](https://github.com/owais/django-webpack-loader)
+
+#### React
+- [react-vis](https://github.com/uber/react-vis)
+- reactstrap
+- react-bootstrap-table2
+
+
+<hr>
 
 # 프로젝트 설명
 - 건설 산업에서 불확실성과 리스크 관리는 대단히 중요한 주제이다.
@@ -54,27 +74,5 @@ TODO
 
 ### Analysis Module
 ![Analysis Module](/images/portfolio/construction/visualization.jpg)
-
-<hr>
-
-# 기술 스택
-- React
-- Django
-- Django REST Framework
-- gunicorn
-- nginx
-- Amazon EC2
-
-### Library
-#### Python
-- pandas
-- numpy
-- [django-webpack-loader](https://github.com/owais/django-webpack-loader)
-
-#### React
-- [react-vis](https://github.com/uber/react-vis)
-- reactstrap
-- react-bootstrap-table2
-
 
 
