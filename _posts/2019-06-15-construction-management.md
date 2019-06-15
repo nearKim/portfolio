@@ -4,14 +4,16 @@ categories: posts
 title: Schedule uncertainty analysis system development in EPC project
 subtitle: 건설계획에서의 Monte carlo 시뮬레이션을 위한 건설데이터 선별 및 통계값 계산을 용이하게 하고, 시뮬레이션 결과를 시각화하여 보여주는 웹기반 시스템을 제작하여 Amazon EC2에 배포한다
 featured-image: /images/portfolio/construction/construction-management-main.jpg
-tags: [publication]
+tags: [publication, patent]
 date-string: FEBRUARY, 2019
 ---
 
 
 # 개요
 - 개발 기간: 2019.02 ~ 2019.05
-- Github: https://github.com/nearKim/ConstructionManagement
+- [Github Repository: Construction Management](https://github.com/nearKim/ConstructionManagement)
+    - 개발 브랜치: master
+    - 배포 브랜치: production
 
 # 특허
 박문서, 윤인석, 김인근 (2019.05.19). **건설 프로젝트 공정 스케쥴 데이터 관리 및 분석 시스템**. 대한민국, 제 C-2019-014217호.
@@ -21,7 +23,10 @@ TODO
 
 
 # 프로젝트 목표
-본 프로젝트는 SRA에서의 Monte carlo 시뮬레이션을 위해 as-built data 선별을 용이하게 하여 DB에 데이터를 저장하고, JAVA 기반의 시뮬레이션 모듈을 통해 생성된 Duration estimation 최종 결과를 시각화하여 사용자에게 보여주는 '통합 건설 데이터 관리 웹 어플리케이션'을 제작하고 EC2에 배포하여 연구자에게 서비스 하는 것을 목표로 한다.
+본 프로젝트는 다음 3가지 모듈을 포함한 '통합 건설 데이터 관리 웹 어플리케이션'을 제작하고 Amazon EC2 인스턴스에 배포하여 논문의 연구자에게 실제적으로 서비스하는 것을 목표로 한다.
+1. SRA에서의 Monte-Carlo simulation을 위해 as-built data를 로드하고, 데이터를 선별하여 DB에 저장하는 Storage Module
+2. 저장된 DB의 데이터들을 현재 추정하고자 하는 Planned Schedule에 할당하여 JAVA 기반의 시뮬레이션 모듈이 이해할 수 있는 형식으로 변환하는 Allocation Module
+3. Simulation 모듈을 통해 생성된 최종 결과 4가지 Index에 따라 시각화하여 사용자에게 보여주는 Analysis Module
 
 
 # 프로젝트 설명
@@ -37,18 +42,20 @@ TODO
 ### Project Framework
 ![Research Framework](/images/portfolio/construction/framework.jpg)
 
-
+<hr>
 
 # 프로젝트 결과
 
-### Storage Module & Schedule Input Module
+### Storage Module
 ![Storage Module](/images/portfolio/construction/storage-module.jpg)
 
 ### Allocation Module
 ![Allocation Module](/images/portfolio/construction/allocation-module.jpg)
 
-### Visualization Module
-![Allocation Module](/images/portfolio/construction/visualization.jpg)
+### Analysis Module
+![Analysis Module](/images/portfolio/construction/visualization.jpg)
+
+<hr>
 
 # 기술 스택
 - React
