@@ -23,10 +23,10 @@ TODO
 
 
 # 프로젝트 목표
-본 프로젝트는 다음 3가지 모듈을 포함한 '통합 건설 데이터 관리 웹 어플리케이션'을 제작하고 Amazon EC2 인스턴스에 배포하여 논문의 연구자에게 실제적으로 서비스하는 것을 목표로 한다.
-1. SRA에서의 Monte-Carlo simulation을 위해 as-built data를 로드하고, 데이터를 선별하여 DB에 저장하는 Storage Module
-2. 저장된 DB의 데이터들을 현재 추정하고자 하는 Planned Schedule에 할당하여 JAVA 기반의 시뮬레이션 모듈이 이해할 수 있는 형식으로 변환하는 Allocation Module
-3. Simulation 모듈을 통해 생성된 최종 결과 4가지 Index에 따라 시각화하여 사용자에게 보여주는 Analysis Module
+본 프로젝트는 다음 3가지 모듈을 포함한 `통합 건설 데이터 관리 웹 어플리케이션`을 제작하고 Amazon EC2 인스턴스에 배포하여 연구자에게 서비스하는 것을 목표로 한다.
+1. **Storage Module**: SRA에서의 Monte-Carlo simulation을 위해 as-built data를 로드하고, 데이터를 선별하여 DB에 저장.
+2. **Allocation Module**: 저장된 DB의 데이터들을 현재 추정하고자 하는 Planned Schedule에 할당하여 JAVA 기반의 시뮬레이션 모듈이 이해할 수 있는 형식으로 변환.
+3. **Analysis Module**: Simulation 모듈을 통해 생성된 최종 결과 4가지 Index에 따라 동적으로 시각화하여 사용자에게 제공.
 
 
 # 프로젝트 설명
