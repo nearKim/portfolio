@@ -20,7 +20,7 @@ date-string: MAY, 2019
 - 한남대
 
 # 프로젝트 목표
-학기 종료 후 교수가 학생의 성적을 평가할 때, Xinics가 제공하는 학사 LMS(Learning management system)인 LearningX에 등록된 과제, 퀴즈 및 성적 데이터와 각 대학별 설정한 등급 기준을 기반으로 학생의 성적을 자동부여해주는 종합성적부 시스템을 개발하는 것을 목표로 한다. 교수는 학생별 가산점(또는 감점)을 통하여 개별 성적을 조정할 수 있다.
+학기 종료 후 교수가 학생의 성적을 평가할 때, Xinics가 제공하는 LMS(Learning management system)인 LearningX에 등록된 과제, 퀴즈 및 성적 데이터와 각 대학별 설정한 등급 기준을 기반으로 학생의 성적을 자동부여해주는 종합성적부 LTI를 개발하는 것을 목표로 한다. 교수는 학생별 가산점(또는 감점)을 통하여 개별 성적을 조정할 수 있다.
 
 # 기술 스택
 - PHP 7.2
@@ -29,7 +29,11 @@ date-string: MAY, 2019
 - Postgresql
 
 ### Library
+#### PHP
 - Laravel
+
+#### Javascript
+- Kendo Grid
 
 <hr>
 
