@@ -16,7 +16,7 @@ date-string: JULY, 2018
     - 개발 브랜치: master
     - 알파 브랜치: alpha
     - 배포 브랜치: prod
-- 웹사이트: <a href="https://www.snucoffee.com">SNU Coffee</a>
+- 웹사이트: <a style="background-color: pink;" href="https://www.snucoffee.com">SNU Coffee</a>
 - 현황: 동아리 운영 상황 변화에 따른 **프로젝트 중단**. 신입들을 위한 동아리 설명 Demo용 페이지로 전환.
 
 # 프로젝트 목표
@@ -107,9 +107,8 @@ date-string: JULY, 2018
 <hr>
 
 # 프로젝트 결과
-
-### 메인 페이지
-![Main Page](/images/portfolio/caffein/caffein-main.gif)
+### 마이 페이지
+![Login Mani](/images/portfolio/caffein/login-main.gif)
 
 ### 카페 검색
 ![Cafe Search](/images/portfolio/caffein/cafe-search.gif)
