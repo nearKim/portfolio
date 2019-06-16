@@ -48,8 +48,8 @@ date-string: APRIL, 2019
 # 프로젝트 설명
 
 ## 개요
-- 교원 평가에 있어서 LMS의 이용률 및 LMS상에서의 학생 참여도를 평가기준에 산입하는 대학교가 존재한다.
-- Xinics가 개발한 LMS(Learning management system)인 LearningX가 제공하는 학습 유형 데이터는 MongoDB에, Canvas가 자체 제공하는 학습 유형 데이터는 Postgresql DB에 나눠져서 저장된다.
+- 교원 평가에 있어서 LMS(Learning management system)의 이용률 및 LMS상에서의 학생 참여도를 평가기준에 산입하는 대학교가 존재한다.
+- Xinics가 개발한 LMS인 LearningX가 제공하는 학습 유형 데이터는 MongoDB에, Canvas가 자체 제공하는 학습 유형 데이터는 Postgresql DB에 나눠져서 저장된다.
 
 ## 기존 상황
 - 대학이 신규 도입한 이후 시스템의 이용통계를 파악하고자 하는 내부적 needs가 존재했다.
