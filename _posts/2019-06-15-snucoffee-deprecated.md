@@ -4,7 +4,7 @@ categories: posts
 title: 서울대학교 중앙 커피동아리 Caffein 웹사이트 제작 (Deprecated)
 subtitle: 서울대학교 중앙 커피동아리 Caffein이 사용할 웹사이트를 동아리 내규에 맞춰 제작한다
 featured-image: /images/portfolio/caffein/caffein-main.jpg
-tags: [toy, web]
+tags: [personal, web]
 date-string: JULY, 2018
 ---
 
