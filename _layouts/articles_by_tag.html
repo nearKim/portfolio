@@ -1,0 +1,15 @@
+---
+layout: post-index
+---
+<article>
+      <h1 class="entry-title">{{ page.tag }}</h1>
+          <ul>
+              {% for post in site.tags[page.tag] %}
+                  {% if post.title != null %}
+                      <li>
+                          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}   ({{ post.date | date: "%B %d, %Y" }})</a>
+                      </li>
+                  {% endif %}
+              {% endfor %}
+    </ul>
+</article>
