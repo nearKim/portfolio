@@ -9,7 +9,7 @@ date-string: FEBRUARY, 2019
 ---
 
 
-# 개요
+# 요약
 - 개발자: 김인근
 - 개발 기간: 2019.02 ~ 2019.05 (약 4개월)
 - [Github Repository: Construction Management](https://github.com/nearKim/ConstructionManagement)

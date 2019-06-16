@@ -9,7 +9,7 @@ date-string: DECEMBER, 2017
 ---
 
 
-# 개요
+# 요약
 - 개발자: 김인근, 신동주
 - 개발 기간: 2017.12 ~ 2018.02 (약 3개월)
 - Github Repository: Private

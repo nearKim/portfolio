@@ -9,7 +9,7 @@ date-string: DECEMBER, 2018
 ---
 
 
-# 개요
+# 요약
 - 개발자: Xinics 개발팀 (총 5명)
 - 개발 기간: 2018.12 ~ 2019.02 (약 2개월)
 - Github Repository: Private

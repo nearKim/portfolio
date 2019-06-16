@@ -9,7 +9,7 @@ date-string: JULY, 2018
 ---
 
 
-# 개요
+# 요약
 - 개발자: 김인근, 박광덕
 - 개발 기간: 2018.07 ~ 2019.01 (약 7개월)
 - [Github Repository: Caffein2](https://github.com/nearKim/Caffein2)
