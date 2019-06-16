@@ -34,6 +34,7 @@ date-string: JULY, 2018
 - nginx
 
 - Amazon EC2
+- Amazon S3
 - Amazon RDS
 - Amazon ECS, ECR
 - Docker
@@ -117,7 +118,7 @@ date-string: JULY, 2018
 ![Photos](/images/portfolio/caffein/photobooth.gif)
 
 ### 커피 모임 생성
-![Coffee Meeting](/images/portfolio/caffein/caffein-meeting.gif)
+![Coffee Meeting](/images/portfolio/caffein/coffee-meeting.gif)
 
 ### 공식 모임 / 교육 생성
 ![Meeting Create](/images/portfolio/caffein/meeting-create.gif)
