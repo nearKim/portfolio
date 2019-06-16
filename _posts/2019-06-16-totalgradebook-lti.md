@@ -4,7 +4,7 @@ categories: posts
 title: 학생 종합성적부 LTI 개발
 subtitle: 학기 종료후 학생 성적 평가 및 조정을 용이하게 하기 위한 종합성적부 LTI(Learning Tools Interoperability) 개발
 featured-image: /images/portfolio/learningx/totalgradebook/gradebook-main.jpg
-tags: [business project, web]
+tags: [business, web]
 date-string: MAY, 2019
 ---
 

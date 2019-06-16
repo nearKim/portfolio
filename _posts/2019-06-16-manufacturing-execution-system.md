@@ -4,7 +4,7 @@ categories: posts
 title: 웹기반 사내 생산관리 시스템(MES, Manufacturing Execution System) 개발
 subtitle: 국제 시장에서의 제품 생산성 재고를 위한 부품 통합 생산관리 시스템의 백엔드을 Django REST framework기반으로 제작한다
 featured-image: /images/portfolio/mes/db-schema.jpg
-tags: [business project, web]
+tags: [business, web]
 date-string: DECEMBER, 2017
 ---
 

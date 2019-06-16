@@ -4,7 +4,7 @@ categories: posts
 title: 차세대 MOOC 플랫폼 Course Catalog 서비스 개발
 subtitle: MOOC형 강좌 통합 플랫폼인 Course Catalog 서비스의 Front를 React 기반으로 개발한다
 featured-image: /images/portfolio/coursecatalog/coursecatalog-main.jpg
-tags: [business project, web]
+tags: [business, web]
 date-string: DECEMBER, 2018
 ---
 

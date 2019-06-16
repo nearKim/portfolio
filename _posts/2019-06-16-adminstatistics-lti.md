@@ -4,7 +4,7 @@ categories: posts
 title: LMS 운영 통계 LTI 개발
 subtitle: 대학 운영자가 상시로 LMS 이용통계를 정량적으로 파악하기 위한 운영 통계 LTI(Learning Tools Interoperability) 개발
 featured-image: /images/portfolio/learningx/adminstatistics/statistics-main.jpg
-tags: [business project, web]
+tags: [business, web]
 date-string: APRIL, 2019
 ---
 
