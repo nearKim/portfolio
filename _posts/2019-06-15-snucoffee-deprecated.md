@@ -104,6 +104,10 @@ date-string: JULY, 2018
 ![pipeline](https://s3.amazonaws.com/chrisb/CICD-refarch.png)
 출처: [아마존 공식 자습서](https://aws.amazon.com/blogs/compute/continuous-deployment-to-amazon-ecs-using-aws-codepipeline-aws-codebuild-amazon-ecr-and-aws-cloudformation)
 
+#### Stress Test
+- EC2 micro 인스턴스를 기준으로 부하테스트를 진행한다.
+[부하 테스트 결과](https://docs.google.com/spreadsheets/d/1nNDHpzTMru78xJjexV1pvAAOgFVgdpyCjD_EK-Qc51w/edit?usp=sharing)
+
 <hr>
 
 # 프로젝트 결과
