@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: 원격수업 LTI 개발
-subtitle: 학교의 운영 방침에 맞게 원격 수업(인터넷 강의)의 기준 요건을 설정하는 LTI(Learning Tools Interoperability) 개발
+subtitle: 학교의 운영 방침에 맞게 원격 수업강좌의 기준 요건을 설정하고 기준에 부합하는지 확인할 수 있는 LTI(Learning Tools Interoperability) 개발
 featured-image: /images/portfolio/learningx/distancelearning/distancelearning-main.jpg
 tags: [business, web]
 date-string: MAY, 2019
@@ -30,6 +30,7 @@ date-string: MAY, 2019
 - React
 - MongoDB
 - Postgresql
+- Apache
 
 ### Library
 #### PHP

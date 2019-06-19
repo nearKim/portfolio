@@ -112,7 +112,7 @@ date-string: JULY, 2018
 
 # 프로젝트 결과
 ### 마이 페이지
-![Login Mani](/images/portfolio/caffein/login-main.gif)
+![Login Main](/images/portfolio/caffein/login-main.gif)
 
 ### 카페 검색
 ![Cafe Search](/images/portfolio/caffein/cafe-search.gif)

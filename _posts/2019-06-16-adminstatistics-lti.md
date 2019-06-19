@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: LMS 운영 통계 LTI 개발
-subtitle: 대학 운영자가 상시로 LMS 이용통계를 정량적으로 파악하기 위한 운영 통계 LTI(Learning Tools Interoperability) 개발
+subtitle: 대학 운영자가 상시로 LMS 이용통계를 정량적으로 파악하기 위한 운영 통계 대시보드 LTI(Learning Tools Interoperability) 개발
 featured-image: /images/portfolio/learningx/adminstatistics/statistics-main.jpg
 tags: [business, web]
 date-string: APRIL, 2019
@@ -25,7 +25,7 @@ date-string: APRIL, 2019
 - 한양사이버대
 
 # 프로젝트 목표
-대학의 운영자가 상시로 교수별, 과목별 LMS 이용통계를 정량적으로 집계한 후 시각화하여 보고받을 수 있는 통계 LTI를 개발하는 것을 목표로 한다.
+대학의 운영자가 상시로 교수별, 과목별 LMS 이용통계를 정량적으로 집계한 후 시각화하여 보고받을 수 있는 통계 대시보드 LTI를 개발하는 것을 목표로 한다.
 
 1. 성능 향상을 위하여 DB 직접 쿼리하는 방법으로 구현한다.
 2. 학과별, 단과대별 운영자를 고려하여 하위계정 운영자도 조회가능해야 한다. 단, 하위계정운영자는 상위계정의 통계자료를 볼 수 없어야 한다.
@@ -35,6 +35,7 @@ date-string: APRIL, 2019
 - React
 - MongoDB
 - Postgresql
+- Apache
 
 ### Library
 #### PHP

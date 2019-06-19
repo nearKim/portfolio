@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: 차세대 MOOC 플랫폼 Course Catalog 서비스 개발
-subtitle: MOOC형 강좌 통합 플랫폼인 Course Catalog 서비스의 Front를 React 기반으로 개발한다
+subtitle: Coursera와 같은 MOOC형 강좌 통합 플랫폼인 Course Catal는g 서비스의 Front를 React 기반으로 개발한다
 featured-image: /images/portfolio/coursecatalog/coursecatalog-main.jpg
 tags: [business, web]
 date-string: DECEMBER, 2018
@@ -40,6 +40,7 @@ MOOC 형태로 제공되는 강좌들을 주제별, 또는 분야별로 Catalog 
 
 - MongoDB
 - Redis
+- Apache
 
 ### Library
 - Laravel
@@ -82,6 +83,24 @@ MOOC 형태로 제공되는 강좌들을 주제별, 또는 분야별로 Catalog 
 <hr>
 
 # 프로젝트 결과
-TODO
+
+## 카탈로그 메인
+![Login Main](/images/portfolio/coursecatalog/coursecatalog-main-2.jpg)
+
+## 카탈로그 운영자
+![Admin Main](/images/portfolio/coursecatalog/coursecatalog-admin.jpg)
+
+## MOOC 메인 카탈로그
+![Catalog Main](/images/portfolio/coursecatalog/coursecatalog-main-catalog.jpg)
+
+## MOOC 서브 카탈로그
+![Catalog Sub](/images/portfolio/coursecatalog/coursecatalog-sub-catalog.jpg)
+
+## 비교과 카탈로그
+![Compare](/images/portfolio/coursecatalog/coursecatalog-compare.jpg)
+
+## 카탈로그 검색
+![Catalog Search](/images/portfolio/coursecatalog/coursecatalog-search.jpg)
+
 
 
