@@ -16,7 +16,7 @@ date-string: FEBRUARY, 2019
 - [Github Repository: Construction Management](https://github.com/nearKim/ConstructionManagement)
     - 개발 브랜치: master
     - 배포 브랜치: production
-- API 명세: TODO
+
 
 # 지식재산권
 박문서, 윤인석, 김인근(발명자). 2019.05.19. **건설 프로젝트 공정 스케쥴 데이터 관리 및 분석 시스템**. 대한민국, 제 C-2019-014217호.
