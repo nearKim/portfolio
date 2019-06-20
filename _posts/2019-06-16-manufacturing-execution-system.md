@@ -10,7 +10,6 @@ date-string: DECEMBER, 2017
 
 
 # 요약
-- 개발자: 김인근, 신동주
 - 개발 기간: 2017.12 ~ 2018.02 (약 3개월)
 - Github Repository: Private
 - 웹사이트: Private
@@ -23,6 +22,19 @@ date-string: DECEMBER, 2017
 2. 배송관리: 송달이력, 배송 확인기능, 책임자 메일링 등
 3. 회계관리: 국가별 차등세율에 따른 세금계산 등
 
+# 역할 및 기여
+본 프로젝트에서 다음의 역할을 수행하였다.
+### 프로젝트 설계
+- Aquerytool을 이용한 관계형 DB 스키마 작성.
+- API 명세 작성.
+- 프로젝트에 사용할 AWS 서비스에 대한 기술검토.
+
+### Backend Server 구현
+- 각 Relation DB Table을 manipulate하기 위한 RESTful한 API 작성.
+- JWT Token을 이용한 인증 시스템 구현.
+
+### Deploy
+- 서비스 실배포 전 테스트 겸용 배포 작업.
 
 # 기술 스택
 - Django

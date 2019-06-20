@@ -10,7 +10,6 @@ date-string: APRIL, 2019
 
 
 # 요약
-- 개발자: 김인근, 이주희 (Xinics 개발팀)
 - 개발 기간: 2019.04 ~ 2019.05 (약 2주)
 - Github Repository: Private
 
@@ -29,6 +28,26 @@ date-string: APRIL, 2019
 
 1. 성능 향상을 위하여 DB 직접 쿼리하는 방법으로 구현한다.
 2. 학과별, 단과대별 운영자를 고려하여 하위계정 운영자도 조회가능해야 한다. 단, 하위계정운영자는 상위계정의 통계자료를 볼 수 없어야 한다.
+
+# 역할 및 기여
+본 프로젝트에서 다음의 역할을 수행하였다.
+### 프로젝트 설계
+- React 와 PHP 7.2기반의 Laravel 프레임워크를 연결.
+- 개발환경 폴더구조 구성 및 Routing rule 설계.
+- 본 프로젝트 전체 React component들의 설계.
+
+### Front UI 구현
+- 외부 React 라이브러리 'Kendo Grid'를 사용한 통계 대시보드 구성.
+- Kendo Grid에 삽입될 데이터를 전처리하는 Front 로직 작성.
+- Kendo Grid에 삽입될 데이터를 필터링하는 Filter UI 작성.
+- 기타 모든 React 관련 작업.
+
+### DB 관련
+- 백엔드에서 사용할 PostgreSQL DB 쿼리문의 골격 작성.
+
+#### 프로젝트 수행 중 마주친 알고리즘 문제 및 구현과정
+- [Tree 구조에서 특정 Node의 후손 중 특정 id를 가진 Node의 존재 여부 알아내기](https://nearkim.coffee/posts/javascript-tree-find-node-algorithm)
+- [Tree 구조에서 특정 Node의 후손 중 특정 id를 가진 Node의 존재 여부 알아내기](https://nearkim.coffee/posts/javascript-tree-exist-childnode-algorithm)
 
 # 기술 스택
 - PHP 7.2

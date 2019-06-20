@@ -10,7 +10,6 @@ date-string: DECEMBER, 2018
 
 
 # 요약
-- 개발자: Xinics 개발팀 (총 5명)
 - 개발 기간: 2018.12 ~ 2019.02 (약 2개월)
 - Github Repository: Private
 
@@ -32,6 +31,23 @@ MOOC 형태로 제공되는 강좌들을 주제별, 또는 분야별로 Catalog 
 1. Course Catalog의 과목들은 기존 자사 LMS(LearningX)와 연계되어야 한다.
 2. MOOC 유형뿐 아니라 대학별 **'비교과 프로그램'** 유형의 강좌도 지원하여 기존 대학의 학사과정과 긴밀하게 연계할 수 있도록 한다.
 3. 각 카탈로그 및 메인페이지는 Widget 별로 관리되어 사용자가 쉽게 사용할 수 있도록 한다.
+
+# 역할 및 기여
+본 프로젝트에서 다음의 역할을 수행하였다.
+### 프로젝트 설계
+- React 와 PHP 7.2기반의 Laravel 프레임워크를 연결.
+- 개발환경 폴더구조 구성 및 Routing rule 설계.
+- 할당된 범위에 맞는 React component들의 설계.
+
+### Front UI 구현
+- 카탈로그 운영자 페이지에서 메인/서브 카탈로그 추가 UI.
+- 카탈로그 운영자 페이지에서 카탈로그 위젯 추가 UI.
+- MOOC형 카탈로그 사용자 UI 중 강좌 리스트 위젯 UI.
+- 비교과 카탈로그 사용자 UI 중 프로그램 리스트 위젯 UI.
+
+### Back Server 구현
+- Laravel을 사용한 사용자 목록, 강좌 목록 Excel Download API 설계 및 구현.
+- React와 Excel Download API의 연계.
 
 
 # 기술 스택

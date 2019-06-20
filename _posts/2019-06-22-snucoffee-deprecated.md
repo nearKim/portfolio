@@ -10,7 +10,6 @@ date-string: JULY, 2018
 
 
 # 요약
-- 개발자: 김인근, 박광덕
 - 개발 기간: 2018.07 ~ 2019.01 (약 7개월)
 - [Github Repository: Caffein2](https://github.com/nearKim/Caffein2)
     - 개발 브랜치: master
@@ -22,6 +21,8 @@ date-string: JULY, 2018
 # 프로젝트 목표
 본 프로젝트는 [Karmo HTML5 템플릿](https://technext.github.io/karmo/index.html)을 기반으로, 서울대학교 중앙 커피동아리 Caffein 회원들이 동아리 활동에 사용할 웹사이트를 제작하는 것을 목표로 한다.
 
+# 역할 및 기여
+Survey app를 제외하고 본 프로젝트의 모든 개발을 주도하였고 PM의 역할을 수행하였다.
 
 # 기술 스택
 - Django

@@ -10,7 +10,6 @@ date-string: MAY, 2019
 
 
 # 요약
-- 개발자: 김인근, 이주희 (Xinics 개발팀)
 - 개발 기간: 2019.05 ~ 2019.06 (약 3주)
 - Github Repository: Private
 
@@ -21,6 +20,20 @@ date-string: MAY, 2019
 
 # 프로젝트 목표
 학기 종료 후 교수가 학생의 성적을 평가할 때, Xinics가 제공하는 LMS(Learning management system)인 LearningX에 등록된 과제, 퀴즈 및 성적 데이터와 각 대학별 설정한 등급 기준을 기반으로 학생의 성적을 자동부여해주는 종합성적부 LTI를 개발하는 것을 목표로 한다. 교수는 학생별 가산점(또는 감점)을 통하여 개별 성적을 조정할 수 있다.
+
+# 역할 및 기여
+본 프로젝트에서 다음의 역할을 수행하였다.
+### 프로젝트 설계
+- React 와 PHP 7.2기반의 Laravel 프레임워크를 연결.
+- 개발환경 폴더구조 구성 및 Routing rule 설계.
+- 할당된 범위에 맞는 React component들의 설계.
+
+### Front UI 구현
+- 상대평가/절대평가에 따른 전체 화면 UI 골격 작성.
+- 상대평가/절대평가 '등급별 인원 비율 Table'(화면의 상단부 Table) UI 및 데이터 핸들링 로직 작성.
+- F등급 설정 Modal UI 및 데이터 핸들링 로직 작성.
+- 가산점/감점 설정 메모 Modal UI.
+- Localizing 리소스 정리 및 적용.
 
 # 기술 스택
 - PHP 7.2

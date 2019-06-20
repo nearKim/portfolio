@@ -37,6 +37,9 @@ Target Journal: Automation in Construction (Impact Factor : 4.032)
 
 <a name="footnote">1</a>: Yoon et al. "Schedule Uncertainty Analysis System Framework to Manage and Allocate Historical Data for Industrial Construction Project". ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction. Vol. 35. IAARC Publications, 2019.
 
+# 역할 및 기여
+본 프로젝트의 모든 개발을 수행하였다.
+
 # 기술 스택
 - React
 
