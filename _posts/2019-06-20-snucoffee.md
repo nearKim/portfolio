@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: posts
-title: 서울대학교 중앙 커피동아리 Caffein 웹사이트 제작 (Deprecated)
-subtitle: 서울대학교 중앙 커피동아리 Caffein이 사용할 웹사이트를 동아리 내규에 맞춰 제작한다
+title: 서울대학교 중앙 커피동아리 Caffein 웹사이트 제작
+subtitle: 서울대학교 중앙 커피동아리 Caffein이 사용할 웹사이트 제작
 featured-image: /images/portfolio/caffein/caffein-main.jpg
 tags: [personal, web]
 date-string: JULY, 2018
@@ -16,7 +16,7 @@ date-string: JULY, 2018
     - 알파 브랜치: alpha
     - 배포 브랜치: prod
 - 웹사이트: <a style="background-color: pink;" href="https://www.snucoffee.com">SNU Coffee</a>
-- 현황: 동아리 운영 상황 변화에 따른 **프로젝트 중단**. 신입들을 위한 동아리 설명 Demo용 페이지로 전환.
+- 현황: 동아리 운영 상황 변화에 따른 **프로젝트 중단**. Demo용 페이지로 전환.
 
 # 프로젝트 목표
 본 프로젝트는 [Karmo HTML5 템플릿](https://technext.github.io/karmo/index.html)을 기반으로, 서울대학교 중앙 커피동아리 Caffein 회원들이 동아리 활동에 사용할 웹사이트를 제작하는 것을 목표로 한다.
