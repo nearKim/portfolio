@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: 원격수업 LTI 개발
-subtitle: 학교의 운영 방침에 맞게 원격 수업강좌의 기준 요건을 설정하고 기준에 부합하는지 확인할 수 있는 LTI(Learning Tools Interoperability) 개발
+subtitle: 학교의 운영 방침에 맞게 원격 수업강좌의 기준 요건을 설정하고 기준에 부합하는지 확인할 수 있는 LTI(Learning Tools Interoperability)를 개발한다
 featured-image: /images/portfolio/learningx/distancelearning/distancelearning-main.jpg
 tags: [business, web]
 date-string: MAY, 2019
@@ -57,14 +57,14 @@ date-string: MAY, 2019
 ## 개요
 - 2018년 교육부는 [원격 수업 운영 기준](https://www.moe.go.kr/boardCnts/view.do?boardID=337&lev=0&statusYN=W&s=moe&m=030308&opType=N&boardSeq=75423)을 발표하여 `원격 수업으로 인정받기 위한 기준`을 공식적으로 발표하였다.
 - 2018년 교육부는 [학점인정 등에 관한 법률 시행령](https://www.moe.go.kr/boardCnts/fileDown.do?m=0503&s=moe&fileSeq=4ca907ef37ff71db5cd124fc270917ec)을 개정하여 K-MOOC을 통한 `학점은행제 기준`을 공식적으로 발표하였다.
-- Xinics가 개발한 LMS(Learning management system)인 LearningX가 제공하는 기능을 통해 교수자는 주차별, 차시별로 강의동영상과 과제 및 퀴즈, 토론 등을 업로드하여 과목을 설계할 수 있다.
-- 학생의 모든 시청기록, 다운로드 기록 등은 LearningX와 연결된 Xinics가 개발한 부속 시스템을 통해 DB 및 Log에 저장되며 이를통해 교수자는 원격 수업에서 성적을 부여할 수 있다.
+- Xinics가 개발한 LMS(Learning management system)인 LearningX가 제공하는 기능을 통해 교수자는 주차별, 차시별로 강의동영상, 과제, 퀴즈, 토론 등을 업로드하여 과목을 설계할 수 있다.
+- 학생이 LearningX를 통해 시청 및 다운로드 한 모든 기록은 자사가 개발한 서비스를 통해 DB 및 Log에 저장되며 이를 참고하여 교수자는 원격 수업 수강생들의 성적을 부여할 수 있다.
 - 대학은 **학점 은행제 기준**과 **원격 수업 운영 기준** 중 하나를 선택하여 적용해야 한다.
 
 ## 기존 상황
-- LearningX는 과목 설계에 있어서 학습 컨텐츠들의 '양'을 정량적으로 분석하지는 않는다.
-- 교육부 개정 기준에 따르면 과목의 강의 컨텐츠가 1분이라도 부족할 경우, 최악의 경우 원격 수업으로 인정되지 않을 수 있다.
-- 이에 따라 대학에서는 개설한 원격 수업 과목을 설계할 때 교육부 지침을 따르고 있는지 여부를 판단하는 시스템이 필요했다.
+- 기존 LearningX는 과목 설계에 있어서 학습 컨텐츠들의 학습시간을 정량적으로 분석하지는 않는다.
+- 교육부 개정 기준에 따르면 과목의 강의 컨텐츠가 1분이라도 부족할 경우, 원격 수업으로 인정되지 않을 수 있다.
+- 이에 따라 대학에서는 개설한 원격 수업 과목을 설계할 때 교육부 지침을 따르고 있는지 여부를 판단하는 시스템이 필요하다.
 
 ## 예상 효과
 - 국내 LMS 중 최초로 정부의 정책을 시스템에 이식하여 '정부 정책의 빠른 현실화'을 이룰 수 있다.
